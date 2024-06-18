@@ -5,7 +5,7 @@ A versão final estava com falha na execução, ao criar um novo projeto e fazer
 
 Trabalho em grupo atividade AT3_N2, Progrmacacao_Concorrente_Distribuida_Noturno
 
-Caio Vinicius de Oliveira Santos
+Caio Vinicius de Oliveira Santos;
 Thales Sousa Lima
 
 ## 🚀 Começando
